@@ -42,20 +42,20 @@ The project follows a **CMSIS-style architecture** with clear separation between
 
 ## 📁 Project Structure
 
-STM32F411CE_GPIO_Driver/
-├── inc/
-│ ├── stm32f411xx.h
-│ └── stm32f411xx_gpio_driver.h
-├── src/
-│ └── stm32f411xx_gpio_driver.c
-├── examples/
-│ └── led_button_exti.c
-├── startup/
-│ └── startup_stm32f411xx.s
-├── linker/
-│ └── stm32f411.ld
-├── README.md
-└── LICENSE
+STM32F411CE_GPIO_Driver/ <br>
+├── inc/ <br>
+│ ├── stm32f411xx.h <br>
+│ └── stm32f411xx_gpio_driver.h <br>
+├── src/ <br>
+│ └── stm32f411xx_gpio_driver.c <br>
+├── examples/ <br>
+│ └── led_button_exti.c <br>
+├── startup/ <br>
+│ └── startup_stm32f411xx.s <br>
+├── linker/ <br>
+│ └── stm32f411.ld <br>
+├── README.md <br>
+└── LICENSE <br>
 
 
 ---
