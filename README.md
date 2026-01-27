@@ -157,6 +157,7 @@ GPIO interrupt callback mechanism
 
 RTOS-friendly driver abstraction
 
+---
 
 🛠️ Tools & References
 
@@ -170,12 +171,13 @@ Embedded C
 
 Git & GitHub
 
+---
 
 📄 License
 
 This project is licensed under the MIT License.
 
-
+---
 👤 Author
 
 Abhishek Bharadwaj
