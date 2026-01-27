@@ -180,5 +180,5 @@ This project is licensed under the MIT License.
 ---
 👤 Author
 
-Abhishek Bharadwaj
+Abhishek Bharadwaj <br>
 Embedded Systems Enthusiast
